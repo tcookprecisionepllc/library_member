@@ -5,6 +5,6 @@
     'depends': ['library_app'],
     'application': False,
     'data': [
-        'views/library_book.xml',
+        'views/book_view.xml',
     ]
 }
